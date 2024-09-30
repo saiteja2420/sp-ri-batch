@@ -1,0 +1,5 @@
+awswrangler
+pandas
+boto3
+mysql-connector-python
+requests

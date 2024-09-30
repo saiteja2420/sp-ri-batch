@@ -1,0 +1,16 @@
+{
+    "savings_plan_type": "RI",
+    
+    "input": {
+        "request_id": 12345,
+        "filepaths": {
+            "cur_files": [
+                "s3://aws-athena-query-results-730335661255-us-west-2/cloudfront-without-audit.parquet"
+            ],
+            "new_ris" : [
+                "s3://aws-athena-query-results-730335661255-us-west-2/ri_plans.parquet"
+            ]
+
+        }
+    }
+}
